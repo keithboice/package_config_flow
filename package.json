@@ -1,9 +1,15 @@
 {
-  "name": "package_config_%remote%",
+  "name": "package_config_flow",
   "version": "1.0.0",
-  "description": "KB %remote% config",
-  "main": "index.yml",
-  "repository": "git@github.com:keithboice/package_config_%remote%.git",
-  "author": "Keith Boice <keith.boice.work@gmail.com>",
-  "license": "MIT"
+  "description": "KB flow config",
+  "main": "index.js",
+  "repository": "git@github.com:keithboice/package_config_flow.git",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "flow"
+  ],
+  "author": "Keith Boice",
+  "license": "ISC"
 }
