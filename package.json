@@ -3,13 +3,23 @@
   "version": "1.0.1",
   "description": "KB flow config",
   "main": ".flowconfig",
-  "repository": "git@github.com:keithboice/package_config_flow.git",
   "scripts": {
     "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithboice/package_config_flow.git"
   },
   "keywords": [
     "flow"
   ],
   "author": "Keith Boice",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithboice/package_config_flow/issues"
+  },
+  "homepage": "https://github.com/keithboice/package_config_flow#readme",
+  "peerDependencies": {
+    "flow-bin": "0.x"
+  }
 }
