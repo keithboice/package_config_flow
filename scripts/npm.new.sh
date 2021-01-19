@@ -4,6 +4,6 @@ npm whoami
 
 npm link
 
-npm link %name%
+npm link package_config_flow
 
 npm publish

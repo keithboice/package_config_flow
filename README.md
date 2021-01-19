@@ -1,11 +1,11 @@
-# package_config_%name%
+# package_config_flow
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ npm i %name%
+$ npm i flow
 ```
 
 **Edit `package.json`**:
@@ -13,6 +13,6 @@ $ npm i %name%
 ```jsonc
 {
   // ...
-  "%external%": "%name%"
+  "flow": "flow"
 }
 ```
