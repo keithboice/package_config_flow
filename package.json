@@ -1,0 +1,9 @@
+{
+  "name": "package_config_%remote%",
+  "version": "1.0.0",
+  "description": "KB %remote% config",
+  "main": "index.yml",
+  "repository": "git@github.com:keithboice/package_config_%remote%.git",
+  "author": "Keith Boice <keith.boice.work@gmail.com>",
+  "license": "MIT"
+}
