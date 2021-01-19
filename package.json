@@ -1,6 +1,6 @@
 {
   "name": "package_config_flow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "KB flow config",
   "main": ".flowconfig",
   "repository": "git@github.com:keithboice/package_config_flow.git",
